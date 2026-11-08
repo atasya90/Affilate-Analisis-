@@ -1,0 +1,8 @@
+{
+  "name": "Affiliate Profit Finder AI",
+  "description": "Find Winning Products. Analyze Trends. Maximize Affiliate Opportunities across TikTok Shop & Shopee Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
